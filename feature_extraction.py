@@ -9,7 +9,7 @@ class BagOfWord:
         self.do_lower_case = do_lower_case
 
     def fit(self, sent_list):
-        # sent_list 类型为 List
+        
         for sent in sent_list:
             if self.do_lower_case:
                 sent = sent.lower()
@@ -77,4 +77,5 @@ if __name__ == "__main__":
     feature = gram.fit_transform(sents)
     print(gram.feature_map)
     print(feature)
+
 
