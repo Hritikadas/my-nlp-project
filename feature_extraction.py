@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-"""
-Created on 2020/4/15 21:16
-@author: phil
-"""
+
 
 import numpy as np
 
@@ -82,3 +77,4 @@ if __name__ == "__main__":
     feature = gram.fit_transform(sents)
     print(gram.feature_map)
     print(feature)
+
