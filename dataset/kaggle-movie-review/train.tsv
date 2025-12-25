@@ -1,0 +1,101 @@
+PhraseId	SentenceId	Phrase	Sentiment
+1	1	A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .	1
+2	1	A series of escapades demonstrating the adage that what is good for the goose	1
+3	1	A series	1
+4	1	A	1
+5	1	series	1
+6	1	of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story	1
+7	1	of	1
+8	1	escapades	1
+9	1	demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story	1
+10	1	demonstrating	1
+11	2	This quiet , introspective and entertaining independent is worth seeking .	4
+12	2	This quiet , introspective and entertaining independent	4
+13	2	This	2
+14	2	quiet	2
+15	2	,	2
+16	2	introspective	4
+17	2	and	2
+18	2	entertaining	3
+19	2	independent	2
+20	2	is worth seeking	3
+21	2	is	2
+22	2	worth	2
+23	2	seeking	2
+24	2	.	2
+25	3	Even fans of Ismail Merchant 's work , I suspect , would have a hard time sitting through this one .	1
+26	3	Even fans of Ismail Merchant 's work , I suspect ,	2
+27	3	Even	2
+28	3	fans	2
+29	3	of Ismail Merchant 's work	2
+30	3	of	2
+31	3	Ismail Merchant 's work	2
+32	3	Ismail Merchant 's	2
+33	3	Ismail	2
+34	3	Merchant	2
+35	3	's	2
+36	3	work	2
+37	3	,	2
+38	3	I	2
+39	3	suspect	2
+40	3	,	2
+41	3	would have a hard time sitting through this one	1
+42	3	would	2
+43	3	have	2
+44	3	a hard time	1
+45	3	a	2
+46	3	hard	1
+47	3	time	2
+48	3	sitting	2
+49	3	through	2
+50	3	this	2
+51	3	one	2
+52	3	.	2
+53	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder .	3
+54	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder	3
+55	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit	3
+56	4	A positively thrilling combination	4
+57	4	A	2
+58	4	positively thrilling	4
+59	4	positively	3
+60	4	thrilling	4
+61	4	combination	2
+62	4	of ethnography and all the intrigue , betrayal , deceit and murder	2
+63	4	of	2
+64	4	ethnography	2
+65	4	and	2
+66	4	all the intrigue , betrayal , deceit and murder	2
+67	4	all	2
+68	4	the intrigue , betrayal , deceit and murder	2
+69	4	the	2
+70	4	intrigue , betrayal , deceit and murder	2
+71	4	intrigue	2
+72	4	,	2
+73	4	betrayal	1
+74	4	,	2
+75	4	deceit	1
+76	4	and	2
+77	4	murder	1
+78	4	.	2
+79	5	Aggressive self-glorification and a manipulative whitewash .	1
+80	5	Aggressive self-glorification and a manipulative whitewash	1
+81	5	Aggressive self-glorification	1
+82	5	Aggressive	1
+83	5	self-glorification	1
+84	5	and	2
+85	5	a manipulative whitewash	1
+86	5	a	2
+87	5	manipulative	1
+88	5	whitewash	1
+89	5	.	2
+90	6	A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .	3
+91	6	A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis	3
+92	6	A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character	3
+93	6	A comedy-drama of nearly epic proportions	3
+94	6	A comedy-drama	3
+95	6	A	2
+96	6	comedy-drama	3
+97	6	of nearly epic proportions	3
+98	6	of	2
+99	6	nearly epic	3
+100	6	nearly	3
