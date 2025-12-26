@@ -48,3 +48,11 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.pdf
+
+# Docker
+.docker/
+
+# Models (trained models cache)
+models/
+*.pkl
+*.joblib
