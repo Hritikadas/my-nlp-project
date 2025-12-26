@@ -93,6 +93,3 @@ Training and test accuracies are displayed for both methods, along with loss cur
 - **Gradient Descent**: Both batch and stochastic variants implemented
 - **One-Hot Encoding**: Manual implementation for multi-class labels
 
-## Author
-
-Created by phil (2020)
